@@ -1,0 +1,10 @@
+com\darwinruiz\edujspapp\controllers\CarreraControlador.class
+com\darwinruiz\edujspapp\services\CarreraService.class
+com\darwinruiz\edujspapp\services\AlumnoService.class
+com\darwinruiz\edujspapp\models\Alumno.class
+com\darwinruiz\edujspapp\services\ProfesorService.class
+com\darwinruiz\edujspapp\repositories\AlumnoRepositorio.class
+com\darwinruiz\edujspapp\controllers\AlumnoControlador.class
+com\darwinruiz\edujspapp\models\Profesor.class
+com\darwinruiz\edujspapp\models\Carrera.class
+com\darwinruiz\edujspapp\controllers\ProfesorControlador.class
